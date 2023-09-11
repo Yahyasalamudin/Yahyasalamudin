@@ -34,4 +34,6 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yahyasalamudin&show_icons=true&locale=en&layout=compact" alt="yahyasalamudin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyasalamudin&show_icons=true&locale=en" alt="yahyasalamudin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github.com/Yahyasalamudin/Yahyasalamudin/blob/output/github-contribution-grid-snake.svg"/></p>
 </div>
