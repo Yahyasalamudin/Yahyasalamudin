@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yahya Salamudin</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyasalamudin&label=Profile%20views&color=0e75b6&style=flat" alt="yahyasalamudin" /> </p>
-
 - 🔭 I’m currently working on [Awan Digital](https://awandigital.id/)
 
 - 🌱 I’m currently learning **React Native and Wordpress**
@@ -14,6 +12,8 @@
 - 📫 How to reach me **yahyasalamudin39@gmail.com**
 
 - ⚡ Fun fact **I don't like crowds**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyasalamudin&label=Profile%20views&color=0e75b6&style=flat" alt="yahyasalamudin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
