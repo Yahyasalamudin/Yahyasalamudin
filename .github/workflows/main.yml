@@ -24,6 +24,10 @@ jobs:
       - name: Show the status of the build
         run: git status
 
+      - name: Create Environment File
+        run: echo "SNAKE_GIF=dist/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+        shell: bash
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
