@@ -1,19 +1,16 @@
 ### Hi there 👋
 
-<!--
 **Yahyasalamudin/Yahyasalamudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building materials sales system
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on project open source
+- 🤔 I’m looking for help to be my partner
+- 💬 Ask me about php and javascript
+- 📫 How to reach me: yahyasalamudin39@gmail.com
+- ⚡ Fun fact: i don't like crowds
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Yahyasalamudin&show_icons=true&count_private=true&hide_border=true" align="left" />  
