@@ -35,5 +35,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyasalamudin&show_icons=true&locale=en" alt="yahyasalamudin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github.com/Yahyasalamudin/Yahyasalamudin/blob/output/github-contribution-grid-snake.svg"/></p>
+<p>&nbsp;<img align="center" src="https://github.com/Yahyasalamudin/Yahyasalamudin/blob/output/github-snake-dark.svg"/></p>
 </div>
